@@ -1,4 +1,4 @@
-# Student-Management-System
+# EduTrack
   <p>This C++ project is a simple <strong>Student Management System</strong> that allows you to perform basic operations such as adding, updating, deleting, and displaying student records. The project uses file handling to save and load student data from a text file.</p>
         
    <h2>Features</h2>
@@ -14,7 +14,7 @@
             <li>Clone the repository to your local machine.</li>
             <li>Open a terminal and navigate to the project directory.</li>
             <li>Compile the project using a C++ compiler, for example:</li>
-            <pre><code>g++ -o student_management_system main.cpp</code></pre>
+            <pre><code>g++ -o EduTrack main.cpp</code></pre>
             <li>Run the executable:</li>
             <pre><code>./student_management_system</code></pre>
         </ol>
