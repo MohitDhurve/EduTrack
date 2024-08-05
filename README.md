@@ -16,7 +16,7 @@
             <li>Compile the project using a C++ compiler, for example:</li>
             <pre><code>g++ -o EduTrack main.cpp</code></pre>
             <li>Run the executable:</li>
-            <pre><code>./student_management_system</code></pre>
+            <pre><code>./EduTrack</code></pre>
         </ol>
 
    <h2>Code Explanation</h2>
